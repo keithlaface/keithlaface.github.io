@@ -3,7 +3,7 @@ title: Welcome to the website of Keith LaFace
 email: keithlaface@gmail.com
 description: >
   Experienced Information Technology and Service professional with a demonstrated history of over 20 years, providing real-world solutions in the Hospital/HealthCare/Education Research industry.
-baseurl: "/keithlaface" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: keithlaface
 github_username:  keithlaface
